@@ -20,7 +20,7 @@
 	$outletcode = $_GET['outletc'];
 	$citty = $_GET['city'];
 	$namestore = $_GET['stname'];
-	$namestorehh;
+	
 	
 	
 		
